@@ -17,3 +17,7 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.nav-text {
+  font-size: clamp(16px, 3vw, 34px);
+}
