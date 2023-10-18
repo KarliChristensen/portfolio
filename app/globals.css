@@ -21,3 +21,12 @@ body {
 .nav-text {
   font-size: clamp(16px, 3vw, 34px);
 }
+
+.text-scaling-large {
+  font-size: clamp(20px, 4vw, 40px);
+}
+
+.text-scaling-small {
+  font-size: clamp(16px, 2vw, 34px);
+}
+
